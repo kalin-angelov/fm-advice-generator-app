@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/advice-generator-app---html-tailwindcss-js-vRTHEusNkr)
 - Live Site URL: [Click here](https://fm-advice-generator-app-seven.vercel.app/)
 
 ## My process
