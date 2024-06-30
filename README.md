@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://fm-advice-generator-app-seven.vercel.app/)
+- Solution URL: [Click here](https://your-solution-url.com)
+- Live Site URL: [Click here](https://fm-advice-generator-app-seven.vercel.app/)
 
 ## My process
 
